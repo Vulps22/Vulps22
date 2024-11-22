@@ -3,9 +3,9 @@
 <h3 align="center">I have other names, but online you only know me as Vulps 🦊</h3>
 
 - ☕ I am currently working with `PHP`
-- 📖 I am trying to be more comfortable with `C#` my goal is to build a career as a backend developer in either `PHP` or `C#` (PHP seems the most likely candidate so far)
+- 📖 I am currently a Software Engineer for The Craneware Group, working with PHP and Symfony
 - 😁 I find it enjoyable to collaborate on projects with others
-- 📧 You can contact me via email: `vulps@ajmcallister.co.uk`
+- 📧 You can contact me via Discord: vulps23
 
 <div align="center">Comfortable Languages</div>
 <div align="center">
