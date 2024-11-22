@@ -10,7 +10,7 @@
 <div align="center">Comfortable Languages</div>
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=php,java,swift,ts,html,css,)](https://www.github.com/Vulps22)
+[![My Skills](https://skillicons.dev/icons?i=php,java,swift,ts,html,css,js)](https://www.github.com/Vulps22)
 
 </div>
 
