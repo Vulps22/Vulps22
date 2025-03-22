@@ -24,7 +24,7 @@
 <div align="center">My Github Stats</div>
 <div align="center">
 
-[![qShadxw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vulps22&theme=dark)](https://github.com/Vulps22)<br>
-[![qShadxw's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulps22&theme=dark)](https://github.com/Vulps22)
+[![Vulps22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vulps22&theme=dark)](https://github.com/Vulps22)<br>
+[![Vulps22's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulps22&theme=dark)](https://github.com/Vulps22)
 
 </div>
